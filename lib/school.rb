@@ -12,10 +12,10 @@ class School
     roster[grade] ||= []
     roster[grade] << student_name
   end
-  def grade
+  def grade(student_name, grade)
     roster[grade]
   end
-  def sort
+  def sort(student_name, grade)
     roster[grade].sort
   end
 end
