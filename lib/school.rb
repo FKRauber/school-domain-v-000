@@ -1,8 +1,11 @@
 # code here!
 class School
-  ROSTER = []
+  
+  #ROSTER = []
 
-  def initialize(name)
+  #def initialize(name)
 
-  end
+  #end
 end
+
+School.new("")
