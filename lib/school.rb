@@ -3,9 +3,9 @@ class School
 
   #ROSTER = []
 
-  #def initialize(name)
+  def initialize(name)
 
-  #end
+  end
 end
 
 #school = School.new("Bayside High School")
