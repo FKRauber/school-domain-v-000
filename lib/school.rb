@@ -1,6 +1,6 @@
 # code here!
 class School
-  
+
   #ROSTER = []
 
   #def initialize(name)
@@ -8,4 +8,4 @@ class School
   #end
 end
 
-School.new("")
+school = School.new("Bayside High School")
