@@ -12,6 +12,12 @@ class School
     roster[grade] ||= []
     roster[grade] << student_name
   end
+  def grade
+    roster[grade]
+  end
+  def sort
+    
+  end
 end
 
 #school = School.new("Bayside High School")
